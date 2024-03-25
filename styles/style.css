@@ -92,11 +92,13 @@ body {
   line-height: 58px;
   color: #FFFFFF;
   text-transform: capitalize;
+  margin-bottom: 20px;
 }
 @media (max-width: 992px) {
   .about-title {
     font-size: 36px;
     line-height: 36px;
+    margin-bottom: 15px;
   }
 }
 @media (max-width: 640px) {
@@ -111,13 +113,12 @@ body {
   font-weight: 400;
   line-height: 27px;
   color: #FFFFFF;
-  margin-top: 28px;
+  text-indent: 20px;
 }
 @media (max-width: 992px) {
   .about-txt {
     font-size: 14px;
     line-height: 20px;
-    margin-top: 15px;
   }
 }
 
